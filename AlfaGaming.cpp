@@ -1,9 +1,9 @@
 {
 "Version": 4,
-"Creator": "Alfa Gaming",
+"Creator": "ArKa",
 "Title": "Hallo Guys,",
-"Info": "Yang Mau Coba Mod Menu Nya Bisa Ke Channel Alfa Gaming",
-"Changelogs": "Jadi Subscribe Alfa Gaming No Lama",
-"Link": "https://youtube.com/channel/UCsqEoXuciJLKtYzFlyczD7Q",
+"Info": "Yang Mau Coba Mod Menu Nya Bisa Ke Channel ArKa",
+"Changelogs": "Jadi Subscribe ArKa No Lama",
+"Link": "https://youtube.com/channel/UCqcdKjxRosi-oUS4Vk1sPbA",
 "Premium": false
 }
